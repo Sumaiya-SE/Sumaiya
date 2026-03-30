@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumaiya !!  
 
 🎓 second-year BEng (Hons) Software Engineering Undergraduate at IIT (University of Westminster affiliated)  
-💻 Full-Stack Developer in Progress | AI & ML Enthusiast  
+💻 Full-Stack Developer | QA & DevOps Enthusiast | AI & ML Explorer
 🌍 Sri Lanka  
 
 ## 🛠 Tech Stack  
@@ -29,19 +29,31 @@
   <img src="https://skillicons.dev/icons?i=supabase" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-**Development Practices:** Agile Methodologies
+**Development Practices:** Agile Methodologies | SDLC | OOP | RESTful APIs | CI/CD | Automation Testing
 
 ---
 
 ## 📌 Projects  
+
+### 🔐 Selenium Login Automation
+Automated login test suite for SauceDemo using Selenium & Pytest. Demonstrates test case creation, validation, reporting, and automation best practices.
 
 ### 🍳 Cookora  
 A smart recipe and meal planning web application designed to enhance cooking experiences through structured meal organization and user-focused features.
 
 ### 🗺 ZenRoute  
 A route management and optimization system built to improve travel efficiency through backend-driven logic and data handling.
+
+### 🖥 DevLens
+A project designed to analyze and visualize GitHub profiles and repositories. Demonstrates skills in data handling, automated reporting, and quality analysis.
+
+### 📚 GradeMate UK
+A student-focused platform for academic management and resource sharing, highlighting full-stack development and system integration skills.
 
 ### 🔥 EmberEcho  
 A concept-driven digital platform focused on delivering structured user interaction through clean and modular system design.
